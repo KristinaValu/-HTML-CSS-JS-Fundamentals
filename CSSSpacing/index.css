@@ -1,0 +1,25 @@
+.box {
+  height: 50px;
+  background-color: antiquewhite;
+  margin-bottom: 10px;
+}
+#box-1 {
+  margin-bottom: 10px;
+  background-color: aqua;
+}
+#box-2 {
+  margin: 12px 10px 5px 7px;
+  background-color: aquamarine;
+}
+#box-3 {
+  margin: 10px 5px 7px;
+  background-color: bisque;
+}
+#box-4 {
+  padding: 10px 12px;
+  background-color: blueviolet;
+}
+#box-5 {
+  padding: 20px;
+  background-color: red;
+}
