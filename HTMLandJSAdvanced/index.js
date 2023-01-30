@@ -5,9 +5,10 @@ function alertButtonClick(event) {
 button.addEventListener("click", alertButtonClick);
 
 const textButton = document.getElementById('element-add-button');
-const body = document.querySelector('body');
+
 function addElement(){
     const para = document.createElement('p');
+    const body = document.querySelector('body');
     para.textContent = "This is the text";
     body.append(para);
   };
